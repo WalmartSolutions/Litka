@@ -2,6 +2,9 @@
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
+**Download: https://workupload.com/file/zvZeWQkLYTW** OR **https://www.mediafire.com/file/7bvyivi0yrt473d/LitkaClient.zip/file** <br/>
+*Download on Workupload because this client is like 140Mb and GitHub is A$$*
+
 # Why?
 
 **EN:** The base is skidded, although, cool modules and when it comes to modules it is probably more tweaked then other clients.
