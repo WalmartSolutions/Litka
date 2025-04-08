@@ -24,4 +24,4 @@
 
 # GUI (Bind: RShift)
 
-![image]()
+![image](https://github.com/WalmartSolutions/Litka/blob/main/GUI.png?raw=true)
