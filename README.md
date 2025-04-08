@@ -11,7 +11,11 @@
 
 **RU (Translated):** База на салазках, хотя модули классные, и когда дело доходит до модулей, он, вероятно, более доработан, чем другие клиенты.
 
-[1]: https://github.com/3000IQPlay
+# Showcases
+
+https://www.youtube.com/@frizynew
+
+https://www.youtube.com/watch?v=iNRB5ykbnO4
 
 # How To Use
 
@@ -23,7 +27,7 @@
 
 # Credits
 - fr1zy1337 (N/A) - Making this client.
-- [3000IQPlay][1] - Cracking.
+- [3000IQPlay](https://github.com/3000IQPlay) - Cracking.
 - Labas339 - Files.
 
 # GUI (Bind: RShift)
