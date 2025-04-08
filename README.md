@@ -17,6 +17,7 @@
 
 1. Download [LitkaClient.zip]() & [JDK 17](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.zip).
 2. Extract it into .minecraft/versions.
+3. Put **-noverify** into your JVM args
 3. Start game using JDK 17
 4. Enjoy
 
