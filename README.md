@@ -9,7 +9,7 @@
 
 **EN:** The base is skidded, although, cool modules and when it comes to modules it is probably more tweaked then other clients.
 
-**RU (Translated):** База на салазках, хотя модули классные, и когда дело доходит до модулей, он, вероятно, более доработан, чем другие клиенты.
+**RU:** База спащенная, но, в отличие от других паст, модули, вероятно, намного качественнее.
 
 # Showcases
 
